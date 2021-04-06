@@ -6,6 +6,7 @@ import 'package:starter/redux/reducer.dart';
 import 'package:redux/redux.dart';
 import 'package:starter/redux/redux_screen.dart';
 import 'package:starter/screens/home/home.dart';
+import 'package:starter/screens/login/login.dart';
 
 void main() {
   runApp(MyApp());
@@ -36,7 +37,8 @@ class MyApp extends StatelessWidget {
         // home: ReduxScreen(),
         routes: {
           '/': (context) => HomeScreen(),
-          '/redux': (context) => ReduxScreen()
+          '/redux': (context) => ReduxScreen(),
+          '/login': (context) => LoginForm()
         },
       ),
     );
