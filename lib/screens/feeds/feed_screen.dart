@@ -40,7 +40,7 @@ class Card extends StatelessWidget {
           child: Column(
             children: [
               FittedBox(
-                fit: BoxFit.fill,
+                fit: BoxFit.fitWidth,
                 child: Image.asset(
                   'assets/car.jpeg',
                   semanticLabel: 'Dash mascot',
