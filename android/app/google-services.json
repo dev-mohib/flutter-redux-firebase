@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735606131694",
+    "project_id": "codepen-8e5b0",
+    "storage_bucket": "codepen-8e5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735606131694:android:0772b930058a618a571cff",
+        "android_client_info": {
+          "package_name": "de.myracledesign.smtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735606131694-me8upl0uumit4akjdgjf3ekmdttsfkr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKD1ZpVmmaHPQTZVVqF1TZfJWhTDW480"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735606131694-me8upl0uumit4akjdgjf3ekmdttsfkr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

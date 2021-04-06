@@ -7,7 +7,7 @@ class Profile extends StatefulWidget {
 }
 
 class _ProfileState extends State<Profile> {
-  bool is_logged_in = false;
+  bool is_logged_in = true;
   @override
   void initState() {
     if (!is_logged_in) {

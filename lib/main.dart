@@ -9,6 +9,7 @@ import 'package:starter/screens/home/home.dart';
 import 'package:starter/screens/login/login.dart';
 
 void main() {
+  //await Firebase.initializeApp();
   runApp(MyApp());
 }
 
