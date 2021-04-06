@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:smtutorial/riverpod/drinks_notifier.dart';
-import 'package:smtutorial/widgets/drinks_widget.dart';
+import 'package:starter/riverpod/drinks_notifier.dart';
+import 'package:starter/widgets/drinks_widget.dart';
 
 import '../constants.dart';
 

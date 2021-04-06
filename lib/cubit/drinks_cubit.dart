@@ -1,6 +1,6 @@
 import 'package:cubit/cubit.dart';
 import 'package:replay_cubit/replay_cubit.dart';
-import 'package:smtutorial/models/drink.dart';
+import 'package:starter/models/drink.dart';
 
 class DrinksCubit extends ReplayCubit<List<Drink>> {
   DrinksCubit()

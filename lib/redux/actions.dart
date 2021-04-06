@@ -1,4 +1,4 @@
-import 'package:smtutorial/models/drink.dart';
+import 'package:starter/models/drink.dart';
 
 class UpdateDrinkAction {
   final Drink updatedDrink;

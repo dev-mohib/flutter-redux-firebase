@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smtutorial/models/drink.dart';
+import 'package:starter/models/drink.dart';
 
 class DrinksWidget extends StatelessWidget {
   final Drink drink;

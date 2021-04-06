@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:smtutorial/models/drink.dart';
-import 'package:smtutorial/redux/actions.dart';
-import 'package:smtutorial/redux/app_state.dart';
-import 'package:smtutorial/widgets/drinks_widget.dart';
+import 'package:starter/models/drink.dart';
+import 'package:starter/redux/actions.dart';
+import 'package:starter/redux/app_state.dart';
+import 'package:starter/widgets/drinks_widget.dart';
 
 import '../constants.dart';
 

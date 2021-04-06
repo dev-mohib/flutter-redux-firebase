@@ -1,5 +1,5 @@
-import 'package:smtutorial/redux/actions.dart';
-import 'package:smtutorial/redux/app_state.dart';
+import 'package:starter/redux/actions.dart';
+import 'package:starter/redux/app_state.dart';
 
 AppState updateDrinksReducer(AppState state, dynamic action) {
   if (action is UpdateDrinkAction) {

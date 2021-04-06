@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:smtutorial/models/drink.dart';
-import 'package:smtutorial/widgets/drinks_widget.dart';
+import 'package:starter/models/drink.dart';
+import 'package:starter/widgets/drinks_widget.dart';
 
 import '../constants.dart';
 

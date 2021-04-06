@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:smtutorial/models/drink.dart';
+import 'package:starter/models/drink.dart';
 
 class DrinksNotifier extends ChangeNotifier {
   List<Drink> _drinks = [
